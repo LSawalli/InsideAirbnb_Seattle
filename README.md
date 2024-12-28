@@ -22,6 +22,9 @@ For this project, I was interestested in using Inside Airbnb data Version to bet
 
 ## File Descriptions <a name="files"></a>
 
+calendar.csv file = listing id and the price and availability for that day
+listings.csv file = full descriptions and average review score
+
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to explain the different steps. 
 There is an additional "ipynb" file that runs the code.
 
